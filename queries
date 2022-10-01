@@ -1,7 +1,7 @@
 USE SqlAssignment;
 
 --1.Display snum,sname,city and comm of all salespeople.
-SELECT Snum, Snum, City, Comm
+SELECT Snum, Sname, City, Comm
 FROM SalesPeople;
 GO
 
