@@ -78,7 +78,7 @@ GO
 --14.All orders taken on Oct 3Rd   and Oct 4th  1994.
 SELECT *
 FROM Orders
-WHERE Odate IN ('03-OCT-94','04-OCT-94');
+WHERE Odate IN ('1998-09-09','1998-09-08');
 GO
 
 --15.All customers serviced by peel or Motika.
