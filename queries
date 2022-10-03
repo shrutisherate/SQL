@@ -129,7 +129,7 @@ GO
 --22.Count all orders for Oct 3rd.
 SELECT COUNT(*) AS 'Orders on Oct 3rd'
 FROM Orders
-WHERE Odate = '03-OCT-94';
+WHERE Odate = '1998-09-08';
 GO
 
 --23.Count the number of different non NULL city values in customers table.
